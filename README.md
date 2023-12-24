@@ -9,3 +9,7 @@ My name is Jaden Arceneaux. I'm a self-taught programmer based in Las Vegas, Nev
 Although I am currently employed I absolutely love working on open-sourced projects. Feel free to check out some of my projects listed below or reach out to me if you want help with yours. My email is [contact@jadenarceneaux.com](mailto://contact@jadenarceneaux.com) and my personal website is [jadenarceneaux.com](https://jadenarceneaux.com)
 
 Much love ❤️
+
+
+
+p.s. My logo is my initials, try to see it if you can.
