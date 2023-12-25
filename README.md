@@ -12,4 +12,4 @@ Much love ❤️
 
 
 
-p.s. My logo is my initials, try to see it if you can.
+p.s. my logo is my initials, try to see it if you can.
